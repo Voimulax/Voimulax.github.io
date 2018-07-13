@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Voimulax&#39;s Blog</title>
+  
+  <subtitle>Voimulax is Nothing</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://voimulax.github.io/"/>
+  <updated>2018-01-29T13:23:58.000Z</updated>
+  <id>https://voimulax.github.io/</id>
+  
+  <author>
+    <name>Voimulax</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一无所有系列[1]：编程基础</title>
+    <link href="https://voimulax.github.io/2018/01/29/nothing-at-all-1/"/>
+    <id>https://voimulax.github.io/2018/01/29/nothing-at-all-1/</id>
+    <published>2018-01-29T12:59:07.000Z</published>
+    <updated>2018-01-29T13:23:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="编程是什么"><a href="#编程是什么" class="headerlink" title="编程是什么"></a>编程是什么</h2><p>编程是编写程序的简称，指编写若干特定的指令。现在的编程主要用于控制计算机，所以又被称为计算机编程（以下简称编程），也即本教程想说的事情。</p><p>编程可以形象地理解为你使用计算机的语言命令它帮你完成你想完成的任务。这件看似简单的事情涉及到很多问题。<em>从原理上来说，命令计算机就是命令它的CPU。</em></p><a id="more"></a><ul><li><p><strong>计算机如何接收到你的命令</strong><br>你可以将你的命令存到一个存储器里，然后运行时一条一条地传入CPU里面，也可以在制作CPU时直接在里面写好一些基础的指令。</p></li><li><p><strong>计算机“看”得懂啥语言</strong><br>CPU只认识0和1，所以前辈们用0和1创造了一套计算机语言，即机器语言——初代编程便是靠这种语言。后来随着编程不断地普及，人们开始用英语单词替换了特定的01串，也即汇编语言，由计算机内部自行翻译。随后发明了相对而言被称为高级语言的编程语言，比如现在非常出名的C语言。高级语言需要先被编译器翻译成汇编语言，再翻译成机器语言。而如今的现代编程语言，也即面向对象的高级语言，会先翻译成一种叫字节码的东西，再根据运行的平台不同翻译成汇编语言以及机器语言。要注意的是，以上所讲的只是常见的情况，某些语言有自己的套路。</p></li><li><p><strong>我只会人类的语言怎么办</strong><br>既然编程用的是计算机的语言，也就意味着你编程时，首先得将你的自然语言翻译成编程语言。很快你就会发现，比起人类复杂的语言体系，编程语言简单多了。以至于现在幼儿园的小朋友们都可以开始学习编程了。</p></li></ul><h2 id="编程枯燥吗"><a href="#编程枯燥吗" class="headerlink" title="编程枯燥吗"></a>编程枯燥吗</h2><p>编程往往会被认为是件枯燥无味的事情。这其实是编程最忌讳的东西——不要将编程当成一种敲着某些特定、重复且混乱的代码的任务，只有当你真正对编程感兴趣的时候，编程之美才能被你发现。</p><p>私以为，对编程的兴趣更像是一种对创造的兴趣。在计算机里，某样东西通过你的一行行代码逐渐呈现出来的过程，让人感觉如同孕育着生命一般神奇。</p><p>某种意义上而言，编程也是一种艺术。现在的PC机是通用计算机，也就是说，在编程世界里限制你的，只有你计算机的性能和你的想象力。</p><h2 id="如何开始编程"><a href="#如何开始编程" class="headerlink" title="如何开始编程"></a>如何开始编程</h2><p>编程是一种创造性的工作，实践是其必经之路，正所谓…</p><blockquote><p>纸上得来终觉浅，绝知此事要躬行</p></blockquote><p>在你学习编程的路上会遇到很多困难，所幸的是由先辈们缔造的互联网上有着无数的教程等待着你的发掘，有着许多的热心人能帮助你，有着大量的开源代码让你借鉴而赞叹。</p><p>不过在此，作者强烈建议，<strong>学习编程不要三天打鱼，两天晒网。遇事要三思，实在想不通就百度，还不行就谷歌，还还不行了，才选择问人。而提问本身就是一门学问，切忌问别人一些毫无意义或是能找现成答案的问题。</strong></p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>So, 你准备好踏出你的第一步了吗？</p><p>Hello World!</p><blockquote><p>这篇文章初稿于2017-04-22 09:31</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;编程是什么&quot;&gt;&lt;a href=&quot;#编程是什么&quot; class=&quot;headerlink&quot; title=&quot;编程是什么&quot;&gt;&lt;/a&gt;编程是什么&lt;/h2&gt;&lt;p&gt;编程是编写程序的简称，指编写若干特定的指令。现在的编程主要用于控制计算机，所以又被称为计算机编程（以下简称编程），也即本教程想说的事情。&lt;/p&gt;
+&lt;p&gt;编程可以形象地理解为你使用计算机的语言命令它帮你完成你想完成的任务。这件看似简单的事情涉及到很多问题。&lt;em&gt;从原理上来说，命令计算机就是命令它的CPU。&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="一无所有" scheme="https://voimulax.github.io/categories/nothing-at-all/"/>
+    
+    
+      <category term="编程" scheme="https://voimulax.github.io/tags/programming/"/>
+    
+      <category term="教程" scheme="https://voimulax.github.io/tags/tutorial/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一无所有系列[0]：序言</title>
+    <link href="https://voimulax.github.io/2018/01/29/nothing-at-all-0/"/>
+    <id>https://voimulax.github.io/2018/01/29/nothing-at-all-0/</id>
+    <published>2018-01-29T12:47:04.000Z</published>
+    <updated>2018-01-29T13:23:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>写这个系列是为了教一位朋友学编程</p><p>也算是尝试去把自己学会的一些东西写下来</p><p>系列名字是瞎起的，如果有想到更好更合适的再改吧</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;写这个系列是为了教一位朋友学编程&lt;/p&gt;
+&lt;p&gt;也算是尝试去把自己学会的一些东西写下来&lt;/p&gt;
+&lt;p&gt;系列名字是瞎起的，如果有想到更好更合适的再改吧&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="一无所有" scheme="https://voimulax.github.io/categories/nothing-at-all/"/>
+    
+    
+      <category term="编程" scheme="https://voimulax.github.io/tags/programming/"/>
+    
+      <category term="教程" scheme="https://voimulax.github.io/tags/tutorial/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Voimulax的诞生</title>
+    <link href="https://voimulax.github.io/2018/01/29/voimulax-birth/"/>
+    <id>https://voimulax.github.io/2018/01/29/voimulax-birth/</id>
+    <published>2018-01-29T12:20:49.000Z</published>
+    <updated>2018-01-30T14:34:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Voimulax的诞生包括了这个名字和这个博客的诞生，事情要从最开始讲起。<br>我很小的时候便接触了互联网，见识到许多身边无法遇见的神奇。<br>那时候真的太年轻了，没有意识到网名的重要性。<br>换了许多次网名，我终于意识到要想一个史无前例的名字代表自己了。</p><a id="more"></a><h2 id="网名"><a href="#网名" class="headerlink" title="网名"></a>网名</h2><p>我开始焦虑起网名的事情，是因为以前的网名要么太奇怪没啥内涵，要么过于大众。尽管别人想的意思和我不一样，可终究字符是一个个对上了。这就引发一个很麻烦的问题，我不时就得想个替换的名字。久而久之我终于厌烦了这样的操作，是时候想点特别的了。</p><p>我的想法是起一个中文名和一个英文名，这样应该能满足绝大多数情景的需要的。这两种名字我以前都取过，但是都差了点什么。以前想到的是没法用来改造再使用的，所以一切都得重新来。</p><p>我想着从中文名想起，然后找一个合适的英文或者造一个单词出来。</p><p>我最先想到的是一个我几乎没用过的笔名：以上作废。这个笔名我也不知道我咋想出来的，感觉有点恶趣味的意思——文章最后署名“以上作废”，给人感觉上面写的都是骗人的。不过这个笔名非常独特，我在网上根本找不到相关的信息。于是我初步决定使用它来进行构造英文名。但是它真的太难被翻译出来了，我的意思是简短地翻译出来。</p><p>我开始寻求我一个英语比我好的朋友的帮助，他也给不出什么好的想法，但是提到了一个关键词——void。</p><p>之后这件事就暂停了。直到后来我翻阅一些小时候写的文章之后，我发现了一个我当年造的词语——“非式”。非式具体是什么这里就不展开了。我一开始也没想到这也能做名字，后来查了下根本没有“非”这个姓，更不用说“非式”这个名字了。当然，更因为和以上作废比较起来，非式更能代表我。于是我决定放弃使用“以上作废”的想法，改用“非式”进行构造。但是同样的问题又出现了，非式极难被翻译成英语，远比以上作废困难。因为我自己并没有给出非式的具体定义，只是写下了一个很模糊的概念。最后只能直译，也即分别译“非”和“式”，然后合在一起。</p><p>经过苦思冥想和那位朋友的帮助，最后决定用void和formula这俩单词。</p><p>一开始合成的是voimula，意外的是这居然和爱沙尼亚语中某个姓氏相近（字母o不同）。为了避免和别人重复，根据那位朋友的想法，在后面补一个x，假装有点神秘感，也不影响发音。</p><p>这样<strong>Voimulax</strong>就诞生了，<strong>[ˈvɔɪmjəlæks]</strong>。之后还顺便想到一个直译的中文名——<strong>威缪勒斯</strong>，这也是个根本不存在的名字。</p><p>中间发生了一些小插曲。我在改微软邮箱的别名的时候，想多占用几个域名。但是总是会第一个域名成功，之后的就失败了，提示已被占有。我一开始一脸茫然，这么神奇的名字都会有人取的吗。最后发现是多点几次确定就好……</p><h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><p>想好名字的时候，我有点害怕，我怕我以后又会后悔了。</p><p>我起名字的时候一直盯着谷歌、必应和百度。Voimulax最初在谷歌上只有俩条毫不相干的结果，必应和百度则啥也找不到。过了一两天后，百度上开始出现一些莫名其妙的网易云音乐歌单。我实在不懂百度的爬虫怎么抓出来的，我在快照里面也找不到我的名字呀。</p><p>我想着这样下去可不行，搜我的名字怎么能冒出来这些奇怪的结果呢。于是我萌生了用<a href="https://pages.github.com/" title="Github Pages" target="_blank">Github Pages</a>写个博客的想法。</p><p>博客框架我没有选官方推荐的<a href="https://jekyllrb.com/" title="jekyll" target="_blank">jekyll</a>，而是选择了我更早听过的<a href="https://hexo.io/" title="Hexo" target="_blank">Hexo</a>。</p><p>一开始我没打算用什么主题，就试验性地搞了两天。最后发现还是用一个主题比较好，然后就选了一个最热门的——<a href="https://theme-next.org/" title="NexT" target="_blank">NexT</a>。</p><p>把博客的样子确定下来花了我一个星期……工作效率真的太低了。</p><p>期间闹出很多笑话，比如我因为漏打了一个s而误以为别人的代码出BUG了。还有就是我试图加个网易云音乐的播放器，最后因为和模板不搭的原因放弃了。还想过搞国际化，但是Hexo的支持真的不友好感觉，就放弃了。我想起以前看过别人的感叹，用开源的东西会用着用着就想自己写一个。虽然我还很菜，但是也产生了这样的想法。</p><p>模板调整期间，我分别向谷歌、必应和百度提交链接，网站地图等等的东西，还写好robots和404界面。一个星期过去，百度反应最慢，而必应和谷歌都已经能搜到我的网站。</p><p>准备写文章前，我想让这个博客更像一个独立的博客，就用path代码画了一个<a href="https://voimulax.github.io/images/icon/logo.svg" title="图标" target="_blank">图标</a>。也算是模仿NexT的图标画的，毕竟颜色都一样，#222222。个人感觉“V”这种标志应该很多人用，所以还不知道这个标志是不是不存在的，希望也是吧。</p><p>最后终于到写第一篇文章的时候了——也就是这篇了。</p><p>之后找了篇以前写好的文章拿来凑数。</p><p>这个博客也算是正式开张了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Voimulax的诞生包括了这个名字和这个博客的诞生，事情要从最开始讲起。&lt;br&gt;我很小的时候便接触了互联网，见识到许多身边无法遇见的神奇。&lt;br&gt;那时候真的太年轻了，没有意识到网名的重要性。&lt;br&gt;换了许多次网名，我终于意识到要想一个史无前例的名字代表自己了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="初见" scheme="https://voimulax.github.io/categories/first-meet/"/>
+    
+    
+      <category term="小文" scheme="https://voimulax.github.io/tags/little-article/"/>
+    
+  </entry>
+  
+</feed>

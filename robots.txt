@@ -1,0 +1,19 @@
+#hexo robots.txt
+User-agent: *
+
+Allow: /
+Allow: /archives/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Disallow: /404.html
+Disallow: /search.html
+Disallow: /README.md
+Disallow: /baidu_urls.txt
+
+Sitemap: https://voimulax.github.io/sitemap.xml
+Sitemap: https://voimulax.github.io/baidusitemap.xml
